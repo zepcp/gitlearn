@@ -5,3 +5,9 @@
 
 ## Tiago Soares
 ## <img src="icons/image.jpg" height="200px" title="TiagoSoares">
+
+## Yasnair Angulo
+## <img src="icons/yasnair.jpeg" height="200px" title="Yasnair Angulo">
+
+## Pedro Gil
+## <img src="icons/pedro_icon.jpg" height="200px" title="Pedro Gil">
