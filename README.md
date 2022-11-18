@@ -3,6 +3,9 @@
 ## José Pereira
 ## <img src="icons/jose.jpeg" height="200px" title="José Pereira">
 
+## Beatriz Catita
+## <img src="icons/beatriz.jpeg" height="200px" title="Beatriz Catita">
+
 ## Madalena
 ## <img src="icons/madalena.png" height="200px" title="Madalena">
 
@@ -17,4 +20,3 @@
 
 ## Pedro Gil
 ## <img src="icons/pedro_icon.jpg" height="200px" title="Pedro Gil">
-
