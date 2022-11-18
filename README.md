@@ -1,4 +1,4 @@
 # gitlearn
 
-## Ana Vilar
-## <img src="icons/ana.jpeg" height="200px" title="Ana Vilar">
+## José Pereita
+## <img src="icons/ana.jose" height="200px" title="José Pereira">
