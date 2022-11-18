@@ -1,4 +1,7 @@
 # gitlearn
 
+## José Pereira
+## <img src="icons/jose.jpeg" height="200px" title="José Pereira">
+
 ## Tiago Soares
-## <img src="icons/jose.jpg" height="200px" title="TiagoSoares">
+## <img src="icons/image.jpg" height="200px" title="TiagoSoares">
