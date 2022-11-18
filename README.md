@@ -4,4 +4,4 @@
 ## <img src="icons/jose.jpeg" height="200px" title="José Pereira">
 
 ## Ali
-## <img src="icons/she ra.jpeg" height="200px" title="Ali">
+## <img src="icons/she ra.jpg" height="200px" title="Ali">
