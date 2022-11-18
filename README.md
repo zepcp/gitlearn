@@ -1,4 +1,4 @@
 # gitlearn
 
 ## Tiago Soares
-## <img src="icons/image.jpeg" height="200px" title="TiagoSoares">
+## <img src="icons/image.jpg" height="200px" title="TiagoSoares">
