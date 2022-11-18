@@ -3,6 +3,9 @@
 ## José Pereira
 ## <img src="icons/jose.jpeg" height="200px" title="José Pereira">
 
+## Ali
+## <img src="icons/she ra.jpg" height="200px" title="Ali">
+
 ## Tiago Soares
 ## <img src="icons/image.jpg" height="200px" title="TiagoSoares">
 
@@ -11,3 +14,4 @@
 
 ## Pedro Gil
 ## <img src="icons/pedro_icon.jpg" height="200px" title="Pedro Gil">
+
